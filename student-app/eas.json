@@ -9,12 +9,12 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_API_URL": "https://school-lunch-api.onrender.com"
+        "EXPO_PUBLIC_API_URL": "https://lunchapp-8ui5.onrender.com"
       }
     },
     "production": {
       "env": {
-        "EXPO_PUBLIC_API_URL": "https://school-lunch-api.onrender.com"
+        "EXPO_PUBLIC_API_URL": "https://lunchapp-8ui5.onrender.com"
       }
     }
   },
