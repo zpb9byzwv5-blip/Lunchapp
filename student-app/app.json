@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "School Lunch Pre-Order",
-    "slug": "school-lunch-preorder",
+    "slug": "lunchapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -19,6 +19,12 @@
     "plugins": [
       "expo-secure-store",
       "expo-asset"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ffc6bcb1-a9ff-4dc0-8045-6c496cf2789e"
+      }
+    },
+    "owner": "lunchapp"
   }
 }
