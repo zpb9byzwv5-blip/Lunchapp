@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "School Lunch Pre-Order",
+    "slug": "school-lunch-preorder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "uk.sch.yourschool.lunchpreorder",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "uk.sch.yourschool.lunchpreorder",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}

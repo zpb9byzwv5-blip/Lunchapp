@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+dist/
+build/
+.env
+.env.local
+.env.production
+till_exports/
+.DS_Store
+Thumbs.db
+*.log

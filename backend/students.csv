@@ -1,0 +1,5 @@
+email,full_name,year_group,nfc_uid,is_fsm,pin_code,initial_wallet_pence
+alex.smith@school.sch.uk,Alex Smith (FSM),Year 11,04:A2:5F:8B:12,Yes,1234,250
+sam.jones@school.sch.uk,Sam Jones (Standard),Year 10,04-B9-1C-3D-44,No,5678,600
+chloe.evans@school.sch.uk,Chloe Evans,Year 9,04C88D112A,TRUE,4321,300
+liam.patel@school.sch.uk,Liam Patel,Year 8,04F11E990B,1,9876,500
